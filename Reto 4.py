@@ -25,7 +25,6 @@ class User():
             self.order_list.append(order_id)
             order_id.status=True
     
-
     def add_to_balance(self,amount):
         if type(amount)==int:
             self.balance+=amount
