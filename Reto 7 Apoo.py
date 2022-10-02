@@ -38,8 +38,4 @@ if __name__=="__main__":
         print(Santiago.Age)
         print(Santiago.Walk(28))
         print(Santiago.Eat("Cereal"))
-        
-        print(dana.Speak("English "))
-        print(dana.Study("comunicaciones"))
-
-        print(jonathan.Teach("comunicaciones"))
+      
